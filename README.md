@@ -33,7 +33,7 @@ npm install -g ganache-cli
 1. Clone this repo
 
 ```bash
-git clone https://github.com/PatrickAlphaC/erc20-brownie
+git clone https://github.com/Arif-X/eth-token-python
 ```
 
 2. Run a script
