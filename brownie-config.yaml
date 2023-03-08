@@ -1,0 +1,12 @@
+dependencies:
+  - OpenZeppelin/openzeppelin-contracts@4.3.2
+compiler:
+  solc:
+    remappings:
+      - '@openzeppelin=OpenZeppelin/openzeppelin-contracts@4.3.2'
+dotenv: .env
+networks:
+  default: consensys-zkevm
+  consensys-zkevm: active
+wallets:
+  from_key: 'private'
