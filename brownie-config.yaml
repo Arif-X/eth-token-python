@@ -9,4 +9,4 @@ networks:
   default: consensys-zkevm
   consensys-zkevm: active
 wallets:
-  from_key: 'private'
+  from_key: 'key here'
